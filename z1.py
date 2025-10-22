@@ -1,3 +1,3 @@
 import random 
 print(random.randint(1,5))
-print('zz')
+print('xx')
