@@ -1,2 +1,2 @@
-asd
+print('safag')
 
